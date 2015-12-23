@@ -1,0 +1,2 @@
+# TinyBox
+Minimalist Email Client
